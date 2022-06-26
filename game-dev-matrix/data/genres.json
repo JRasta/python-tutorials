@@ -1,7 +1,8 @@
 {
   "genre_data": [
     {
-      "genre": "action"
+      "genre": "action",
+      "topics" : ["airplane, aliens, alt. history, cyberpunk"]
     },
     {
       "genre" : "adventure"

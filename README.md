@@ -17,4 +17,8 @@ Tutorial code snippets<br />
 <br />
 
 ### python-programs:
-Code snippets of random programming exercises
+Code snippets of random programming exercises<br />
+<br />
+
+### game-dev-matrix:
+Learn to program the game design of Game Dev: Search engine 
