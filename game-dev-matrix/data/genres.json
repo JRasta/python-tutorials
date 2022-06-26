@@ -1,0 +1,22 @@
+{
+  "genre_data": [
+    {
+      "genre": "action"
+    },
+    {
+      "genre" : "adventure"
+    },
+    {
+      "genre": "rpg"
+    },
+    {
+      "genre": "simulation"
+    },
+    {
+      "genre": "strategy"
+    },
+    {
+      "genre": "casual"
+    }
+  ]
+}

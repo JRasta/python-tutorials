@@ -1,0 +1,91 @@
+{
+	"system_data": [
+		{
+			"system": "PC"
+		},
+		{
+			"system": "G64"
+		},
+		{
+			"system": "TES"
+		},
+		{
+			"system": "Master V"
+		},
+		{
+			"system": "Gameling"
+		},
+		{
+			"system": "Vena Gear"
+		},
+		{
+			"system": "Vena Oasis"
+		},
+		{
+			"system": "Super TES"
+		},
+		{
+			"system": "Playsystem"
+		},
+		{
+			"system": "TES 64"
+		},
+		{
+			"system": "DreamVast"
+		},
+		{
+			"system": "Playsystem 2"
+		},
+		{
+			"system": "mBox"
+		},
+		{
+			"system": "Game Sphere"
+		},
+		{
+			"system": "GS"
+		},
+		{
+			"system": "PPS"
+		},
+		{
+			"system": "mBox 360"
+		},
+		{
+			"system": "Nuu"
+		},
+		{
+			"system": "Playsystem 3"
+		},
+		{
+			"system": "grPhone"
+		},
+		{
+			"system": "grPad"
+		},
+		{
+			"system": "mPad"
+		},
+		{
+			"system": "Wuu"
+		},
+		{
+			"system": "OYA"
+		},
+		{
+			"system": "mBox One"
+		},
+		{
+			"system": "Playsystem 4"
+		},
+		{
+			"system": "mBox Next"
+		},
+				{
+			"system": "Playsystem 5"
+		},
+				{
+			"system": "Custom Console"
+		}
+	]
+}
